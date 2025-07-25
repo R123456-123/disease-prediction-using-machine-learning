@@ -35,7 +35,7 @@ Copy code -
 predict_disease(['fever', 'headache', 'nausea'])
 Returns the predicted disease based on trained ensemble model.
 
-Colab link - https://colab.research.google.com/drive/1ZvOfHDSiA07n29XAfa-G8E5f__nDUIwS
+Colab link - https://colab.research.google.com/drive/1ZvOfHDSiA07n29XAfa-G8E5f__nDUIwS                                                                         
 dataset link - https://drive.google.com/file/d/17O0TP8wOHmghcK81tvJJo_YUP8uS2wKg/view?usp=sharing
 
 
